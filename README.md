@@ -2,6 +2,17 @@
 
 Ce document présente les termes et concepts clés utilisés dans notre système de support informatique. Il sert de référence pour assurer une communication cohérente et efficace au sein de l'équipe.
 
+## Auteurs et date
+
+**Date :** 11 février 2025  
+
+**Liste des participants :** 
+- Ludovic Andreotti
+- Nina Guiguet   
+- Angie Pons  
+- Julien Vaglia  
+- Catherine Jules 
+
 ## Termes et Concepts
 
 ### Ticket
